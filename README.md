@@ -583,12 +583,6 @@ Use correct API key and secret.
 
 ---
 
-# 👨‍💻 Author
-
-## Mohd Khizar Rasheed
-
-Associate Software Engineer | Full Stack Developer
-
 ### Skills
 
 * Java
